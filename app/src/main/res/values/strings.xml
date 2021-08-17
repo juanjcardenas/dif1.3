@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DIF1.2</string>
+    <string name="vers">Version 1.2</string>
+
+    //String del activity main login y Registro
+
+    <string name="pis">Prefiero iniciar sesión</string>
+    <string name="is">Iniciar sesión</string>
+    <string name="r">Crea una cuenta de DIF</string>
+
+    <string name="nom">Nombre</string>
+    <string name="ap">Apellidos</string>
+    <string name="user">Nombre del usuario</string>
+    <string name="c1">Puedes utilizar un correo electrnico con letras, números y puntos entre otros...</string>
+
+    <string name="clave">Contraseña</string>
+    <string name="clavecof">Confirmación</string>
+    <string name="c2">Utilizar ocho caracteres como minimo con una combinación de letras, números y simbolos</string>
+    <string name="mc">Mostrar contraseña</string>
+    <string name="tel">Teléfono</string>
+    <string name="fn">Fecha de nacimiento</string>
+    <string name="rc">Restablecer contraseña</string>
+
+    //button del activity main
+    <string name="reg">Registrar</string>
+    <string name="login">Login</string>
+
+    <string name="cc">Crear cuenta</string>
+    <string name="rclave">Ingresa tu correo</string>
+    <string name="recuperar">recuperar</string>
+    <string name="rcc">Recupera tu contraseña</string>
+
+    //procesos
+    <string name="Dis">Disponible</string>
+    <string name="plata">1.000.000$</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "DIF1.3"
+include ':app'
